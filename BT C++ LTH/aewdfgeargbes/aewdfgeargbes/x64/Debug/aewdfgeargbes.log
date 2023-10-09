@@ -1,0 +1,5 @@
+﻿  dfb.cpp
+dfb.obj : error LNK2019: unresolved external symbol "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQEAHAEAH@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl Nhap(int * const,int)" (?Nhap@@YAXQEAHH@Z)
+C:\Users\Laptop\source\repos\BT C++ LTH\aewdfgeargbes\x64\Debug\aewdfgeargbes.exe : fatal error LNK1120: 1 unresolved externals
